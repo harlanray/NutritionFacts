@@ -1,6 +1,6 @@
 # Nutrition Facts
 
-One Paragraph of the project description
+A Nurtition Facts label created entirely from html & css. Text & style-based formatting.
 
 Initially appeared on [GitHub (repo)](https://github.com/harlanray/NutritionFacts).
 
